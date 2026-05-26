@@ -1,0 +1,137 @@
+2026-05-26 01:07:02,866 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 01:07:05,507 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 01:10:06,753 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 01:10:08,209 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 01:18:19,159 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 01:18:20,665 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 01:28:21,420 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 01:28:23,311 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 01:29:08,596 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 01:29:10,083 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 01:31:35,439 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 01:31:36,901 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 01:32:14,830 INFO rag chat completed: conversation_id=ff45913d-ac4c-4824-b475-bf29dc9809b4 sources=6
+2026-05-26 01:36:00,098 INFO rag chat completed: conversation_id=dee66771-e61a-4f1b-9534-ec7412a0d844 sources=6
+2026-05-26 01:37:24,167 INFO rag book content fetched: path=xiyouji_txt/001 灵根育孕源流出　心性修持大道生.txt source_type=.txt
+2026-05-26 01:37:34,196 INFO rag book content fetched: path=xiyouji_txt/007 八卦炉中逃大圣　五行山下定心猿.txt source_type=.txt
+2026-05-26 01:41:37,644 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 01:41:39,146 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 01:53:56,427 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 01:53:57,891 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 01:54:26,936 INFO rag chat completed: conversation_id=c6d82807-4cd7-4c3a-8a39-a76b62cb5418 sources=6
+2026-05-26 01:55:24,639 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 01:55:26,125 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 02:05:26,881 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 02:05:28,640 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 02:15:28,647 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 02:15:30,133 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 02:25:30,153 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 02:25:31,633 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 02:35:31,653 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 02:35:33,127 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 02:45:33,133 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 02:45:34,604 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 02:55:34,619 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 02:55:36,082 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 03:05:36,092 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 03:05:37,549 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 03:15:37,557 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 03:15:39,021 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 03:25:39,028 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 03:25:40,492 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 03:35:40,503 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 03:35:41,974 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 03:45:41,993 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 03:45:43,445 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 03:55:43,452 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 03:55:44,900 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 04:05:44,907 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 04:05:46,386 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 04:15:46,395 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 04:15:47,864 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 04:25:47,869 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 04:25:49,335 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 04:35:49,346 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 04:35:50,799 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 04:45:50,820 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 04:45:52,293 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 04:55:52,304 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 04:55:53,814 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 05:05:53,827 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 05:05:55,294 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 05:15:55,315 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 05:15:56,785 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 05:25:56,806 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 05:25:58,272 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 05:35:58,283 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 05:36:00,274 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 05:46:00,281 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 05:46:01,757 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 05:56:01,776 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 05:56:03,250 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 06:06:05,373 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 06:06:06,837 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 06:16:06,850 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 06:16:08,309 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 06:26:08,319 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 06:26:09,781 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 06:36:09,794 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 06:36:11,260 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 06:46:11,266 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 06:46:12,727 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 06:56:12,741 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 06:56:14,203 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 07:06:14,222 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 07:06:15,676 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 07:16:15,682 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 07:16:17,148 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 07:26:17,153 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 07:26:18,600 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 07:36:18,618 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 07:36:20,071 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 07:46:20,088 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 07:46:21,537 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 07:56:21,553 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 07:56:23,004 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:06:23,022 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 08:06:24,543 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:16:24,551 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 08:16:26,012 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:26:26,026 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 08:26:27,471 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:36:27,484 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 08:36:28,940 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:46:28,947 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 08:46:30,409 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:51:37,189 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 08:51:38,687 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:53:16,294 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 08:53:17,789 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:53:45,369 INFO rag chat completed: conversation_id=13d2ddbb-f9c4-4711-b5ef-9bdee9fb6eb7 sources=6
+2026-05-26 08:54:05,937 INFO rag chat completed: conversation_id=13d2ddbb-f9c4-4711-b5ef-9bdee9fb6eb7 sources=6
+2026-05-26 08:54:42,955 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 08:54:44,443 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:55:31,392 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 08:55:32,869 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 08:56:14,623 INFO rag book content fetched: path=xiyouji_txt/001 灵根育孕源流出　心性修持大道生.txt source_type=.txt
+2026-05-26 08:57:56,452 INFO rag chat completed: conversation_id=dee66771-e61a-4f1b-9534-ec7412a0d844 sources=6
+2026-05-26 09:05:33,613 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 09:05:35,492 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 09:15:35,513 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 09:15:37,291 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 09:29:37,616 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 09:29:39,061 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 09:41:39,163 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 09:41:40,655 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 09:44:11,727 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 09:44:13,212 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 09:45:45,491 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 09:45:46,999 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 09:47:25,700 INFO rag book content fetched: path=xiyouji_txt/002 悟彻菩提真妙理　断魔归本合元神.txt source_type=.txt
+2026-05-26 09:48:03,248 INFO rag chat completed: conversation_id=c7d7e47f-7417-4404-85ea-0cbe543898cd sources=6
+2026-05-26 09:55:47,746 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 09:55:49,244 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 10:05:49,257 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 10:05:51,038 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
+2026-05-26 10:15:51,053 INFO rag scan started: books_dir=D:\qit\25_2\毕业设计\万英建\RAG\books files=100
+2026-05-26 10:15:52,495 INFO rag scan finished: {'current_files': 100, 'new_documents': 0, 'updated_documents': 0, 'deleted_documents': 0, 'added_chunks': 0, 'removed_chunks': 0}
