@@ -16,7 +16,20 @@
 - FastAPI 接口，支持全量 CORS
 - 检索答案附带书名、文件名和片段来源
 
+## 编辑.env
+请复制 `.env.example` 为 `.env`，并根据需要修改配置项：
+ - token：必填，你硅基流动的 token
+
 ## 启动
+0. 创建和进入.venv虚拟环境
+```bash
+# 创建.venv虚拟环境
+python -m venv .venv
+
+# 进入虚拟环境
+source .venv/bin/activate  # Linux/MacOS
+.venv\Scripts\activate  # Windows
+```
 
 1. 安装依赖
 

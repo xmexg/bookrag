@@ -4,7 +4,8 @@
 // @version      2026-05-26
 // @description  适配本地图书RAG项目的油猴悬浮窗，支持流式对话、项目页切换与多行输入。
 // @author       looom
-// @match        http://127.0.0.1:*
+// @match        http://127.0.0.1:*/*
+// @match        http://localhost:*/*
 // @icon         https://static.vecteezy.com/system/resources/previews/042/002/496/non_2x/rag-creative-icon-design-vector.jpg
 // @grant        none
 // @run-at       document-end
@@ -21,9 +22,18 @@
     const DEFAULT_API_BASE = "http://127.0.0.1:8092";
     const STORAGE_KEY = "bookrag_tamer_state_v1";
 
+    function escapeHtml(value) {
+        return String(value)
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#39;");
+    }
+
     const state = loadState();
     let activeConversationId = state.conversationId || "";
-    let isPanelVisible = state.panelVisible !== false;
+    let isPanelVisible = state.panelVisible === true;
     let showProjectPage = state.showProjectPage === true;
     let currentRequestController = null;
     let resizeSaveFrame = null;
