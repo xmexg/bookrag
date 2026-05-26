@@ -21,7 +21,7 @@ def build_dashboard_html(settings: Settings) -> str:
       "responseExamples": [
         {
           "title": "响应示例",
-          "code": "{\n  \"server_time\": \"2026-05-26T08:00:00Z\",\n  \"books_dir\": \"D:/qit/25_2/毕业设计/万英建/RAG/books\",\n  \"scan_interval\": 300,\n  \"last_scan_at\": \"2026-05-26T07:55:00Z\",\n  \"next_scan_at\": \"2026-05-26T08:00:00Z\",\n  \"latest_update_at\": \"2026-05-26T07:55:00Z\",\n  \"document_count\": 12,\n  \"active_document_count\": 12,\n  \"book_count\": 3,\n  \"conversation_count\": 5,\n  \"last_scan_stats\": {\n    \"current_files\": 12,\n    \"new_documents\": 0,\n    \"updated_documents\": 0,\n    \"deleted_documents\": 0,\n    \"added_chunks\": 0,\n    \"removed_chunks\": 0\n  }\n}",
+          "code": "{\n  \"server_time\": \"2026-05-26T08:00:00Z\",\n  \"books_dir\": \"D:/qit/25_2/毕业设计/wyj/RAG/books\",\n  \"scan_interval\": 300,\n  \"last_scan_at\": \"2026-05-26T07:55:00Z\",\n  \"next_scan_at\": \"2026-05-26T08:00:00Z\",\n  \"latest_update_at\": \"2026-05-26T07:55:00Z\",\n  \"document_count\": 12,\n  \"active_document_count\": 12,\n  \"book_count\": 3,\n  \"conversation_count\": 5,\n  \"last_scan_stats\": {\n    \"current_files\": 12,\n    \"new_documents\": 0,\n    \"updated_documents\": 0,\n    \"deleted_documents\": 0,\n    \"added_chunks\": 0,\n    \"removed_chunks\": 0\n  }\n}",
         },
       ],
     },
@@ -101,7 +101,7 @@ def build_dashboard_html(settings: Settings) -> str:
       "responseExamples": [
         {
           "title": "响应示例",
-          "code": "{\n  \"log_path\": \"D:/qit/25_2/毕业设计/万英建/RAG/rag.log\",\n  \"count\": 80,\n  \"lines\": [\n    \"2026-05-26 07:55:00 INFO scan finished: ...\"\n  ]\n}",
+          "code": "{\n  \"log_path\": \"D:/qit/25_2/毕业设计/wyj/RAG/rag.log\",\n  \"count\": 80,\n  \"lines\": [\n    \"2026-05-26 07:55:00 INFO scan finished: ...\"\n  ]\n}",
         },
       ],
     },
@@ -253,7 +253,7 @@ def build_dashboard_html(settings: Settings) -> str:
       "responseExamples": [
         {
           "title": "响应示例",
-          "code": "[\n  {\n    \"id\": 1,\n    \"file_name\": \"001 灵根育孕源流出.txt\",\n    \"rel_path\": \"西游记/001 灵根育孕源流出.txt\",\n    \"abs_path\": \"D:/qit/25_2/毕业设计/万英建/RAG/books/西游记/001 灵根育孕源流出.txt\",\n    \"content_hash\": \"...\",\n    \"file_size\": 20480,\n    \"mtime\": 1716700000.0,\n    \"is_active\": true,\n    \"created_at\": \"2026-05-26T07:55:00Z\",\n    \"updated_at\": \"2026-05-26T07:55:00Z\",\n    \"book_name\": \"西游记\",\n    \"chapter_name\": \"第1回\",\n    \"display_path\": \"西游记/001 灵根育孕源流出.txt\"\n  }\n]",
+          "code": "[\n  {\n    \"id\": 1,\n    \"file_name\": \"001 灵根育孕源流出.txt\",\n    \"rel_path\": \"西游记/001 灵根育孕源流出.txt\",\n    \"abs_path\": \"D:/qit/25_2/毕业设计/wyj/RAG/books/西游记/001 灵根育孕源流出.txt\",\n    \"content_hash\": \"...\",\n    \"file_size\": 20480,\n    \"mtime\": 1716700000.0,\n    \"is_active\": true,\n    \"created_at\": \"2026-05-26T07:55:00Z\",\n    \"updated_at\": \"2026-05-26T07:55:00Z\",\n    \"book_name\": \"西游记\",\n    \"chapter_name\": \"第1回\",\n    \"display_path\": \"西游记/001 灵根育孕源流出.txt\"\n  }\n]",
         },
       ],
     },
